@@ -146,6 +146,3 @@ GUI 工具，集成三大功能：
 - 建议显存 8GB 以上，4-bit 量化后可适配 6GB
 - HF_ENDPOINT 已设置为国内镜像（`https://hf-mirror.com`）
 
-## 许可证
-
-MIT License
