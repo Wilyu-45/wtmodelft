@@ -18,6 +18,12 @@ output/checkpoint-*/
 
 data/raw/
 
+models/base_model_huff/*.safetensors
+models/base_model_huff/*.bin
+models/base_model_huff/tokenizer.json
+models/base_model_huff/merges.txt
+models/base_model_huff/vocab.json
+
 *.tmp
 *.bak
 *.swp
