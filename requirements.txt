@@ -1,0 +1,12 @@
+torch
+transformers
+trl
+peft
+accelerate
+bitsandbytes
+datasets
+scipy
+sentencepiece
+huggingface_hub
+gradio
+modelscope
